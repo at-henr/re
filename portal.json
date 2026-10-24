@@ -1,6 +1,5 @@
 {
   "versao": "1.3",
-  "buildNumber": "3",
   "urlDownload": "https://github.com/at-henr/re/releases/download/v1.2/app-release.apk",
   "obrigatorio": false,
   "novidades": "Correção de bugs, melhorias na fluidez das telas e otimização do leitor de etiquetas."
