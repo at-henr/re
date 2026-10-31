@@ -1,7 +1,7 @@
 {
-  "versao": "1.2.4",
+  "versao": "1.2.5",
   "buildNumber": "2",
-  "urlDownload": "https://github.com/at-henr/re/releases/download/1-0/7-itapoa-app-release.apk",
+  "urlDownload": "https://github.com/at-henr/re/releases/download/1-0/8-itapoa-app-release.apk",
   "obrigatorio": false,
   "novidades": "Correção de bugs e melhorias gerais no sistema."
 }
